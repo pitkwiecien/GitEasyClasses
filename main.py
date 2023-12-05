@@ -44,3 +44,5 @@ class Pen:
 
     def __str__(self):
         return f"Computer({self.color}, {self.size})"
+
+p = Pen("brown", "L")
