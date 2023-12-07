@@ -4,4 +4,4 @@ class Pen:
         self.size = size
 
     def __str__(self):
-        return f"Computer({self.color}, {self.size})"
+        return f"Pen({self.color}, {self.size})"

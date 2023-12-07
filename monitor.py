@@ -4,4 +4,4 @@ class Monitor:
         self.size = size
 
     def __str__(self):
-        return f"Computer({self.resolution}, {self.size})"
+        return f"Monitor({self.resolution}, {self.size})"
